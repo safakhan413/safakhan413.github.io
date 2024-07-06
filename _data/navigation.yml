@@ -1,7 +1,9 @@
-# main links links
 main:
-
-  - title: "CV"
-     url: /files/Aisha1.pdf/    
-    
-
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Contact"
+    url: /contact/
